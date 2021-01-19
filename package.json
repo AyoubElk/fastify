@@ -113,7 +113,7 @@
   },
   "devDependencies": {
     "@hapi/joi": "^17.1.1",
-    "@sinonjs/fake-timers": "^6.0.1",
+    "@sinonjs/fake-timers": "^7.0.2",
     "@types/pino": "^6.0.1",
     "@types/node": "^14.10.3",
     "@typescript-eslint/eslint-plugin": "^4.5.0",
@@ -172,7 +172,7 @@
     "ajv": "^6.12.2",
     "avvio": "^7.1.2",
     "fast-json-stringify": "^2.2.1",
-    "fastify-error": "^0.2.0",
+    "fastify-error": "^0.3.0",
     "fastify-warning": "^0.2.0",
     "find-my-way": "^3.0.5",
     "flatstr": "^1.0.12",
